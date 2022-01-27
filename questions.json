@@ -1,0 +1,30 @@
+[
+    {
+        "titre" : "Quelle est la capitale de la France ?",
+        "reponses" : [["Marseille", false], ["Nice", false], ["Paris", true], ["Nantes", false]]
+    },
+    { 
+        "titre" : "Quelle est la capitale de l'Italie ?",
+        "reponses" : [["Rome", true], ["Milan", false], ["Florence", false], ["Naples", false]]
+    },
+    { 
+        "titre" : "A quelle religion appartient la philosophie zen ?",
+        "reponses" : [["Le judaïsme", false], ["L'hindouisme", false], ["Le Bouddisme", true], ["Le taoïsme", false]]
+    },
+    { 
+        "tire" : "Quel océan sépare l'Europe des Amériques ?",
+        "reponses" : [["Pacifique", false], ["Atlantique", true], ["Indien", false], ["Antartique", true]]
+    },
+    { 
+        "titre" : "Bankok est la capitale de ...",
+        "reponses" : [["La Malaisie", false], ["La Taïlande", true], ["Cambodge", false], ["Indonésie", false]]
+    },
+    { 
+        "titre" : "Combien de fois par jour les carillons de la tour Spasskaïa du Kremlin sont-ils remontés?",
+        "reponses" : [["Un", false], ["Deux", true], ["Trois", false], ["Quatre", false]]
+    }
+
+
+
+    
+]
